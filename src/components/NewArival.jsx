@@ -1,8 +1,8 @@
 import React from 'react'
 import newArivalMan from "../assets/images/newArivalMan.png"
 import women1 from "../assets/images/women.png"
-import women2 from "../assets/images/newArivalwomen.png"
-import women3 from "../assets/images/newArivalwomen2.png"
+import women2 from "../assets/images/newArivalWomen.png"
+import women3 from "../assets/images/newArivalWomen2.png"
   import { FaArrowRight } from "react-icons/fa";
 
 export default function NewArival() {
